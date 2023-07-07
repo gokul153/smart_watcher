@@ -1,0 +1,6 @@
+https://console.firebase.google.com/project/bgreen-272ee/database/bgreen-272ee-default-rtdb/data/~2F
+
+secret key
+NnMPl7uY48lttWweaRc2V2NVUj4eKkfkbEJe7Bv2
+
+bgreen-272ee-default-rtdb
